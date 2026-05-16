@@ -3,6 +3,7 @@
 A machine learning project that predicts the presence or absence of heart disease using clinical features. The pipeline covers exploratory data analysis, preprocessing, model training with LightGBM and XGBoost, and hyperparameter optimization via Optuna.
 
 ---
+<img width="2920" height="1532" alt="image" src="https://github.com/user-attachments/assets/8519024f-c00b-474b-bf00-3db38eefc1a1" />
 
 [Demo App](https://heartdiseaseprediction-m4dwnvfcfigepzvsjdq7bh.streamlit.app/)
 
