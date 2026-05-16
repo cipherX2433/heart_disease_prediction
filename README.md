@@ -4,6 +4,8 @@ A machine learning project that predicts the presence or absence of heart diseas
 
 ---
 
+[Demo App](https://heartdiseaseprediction-m4dwnvfcfigepzvsjdq7bh.streamlit.app/)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
