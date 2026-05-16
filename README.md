@@ -64,12 +64,12 @@ The dataset contains **630,000 samples** and **13 features** (plus the target la
 ```
 heart-disease-prediction/
 │
-├── datasets/
-│   ├── train.csv
-│   └── test.csv
-│
+├── streamlit/
+│   ├── app.py
+│   └── model.pkl
+│   |__ requirements.txt
+|
 ├── heart_disease_prediction.ipynb   # Main notebook
-├── best_params.pkl                  # Saved best hyperparameters from Optuna
 └── README.md
 ```
 
